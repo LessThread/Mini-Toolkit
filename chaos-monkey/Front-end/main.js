@@ -1,5 +1,5 @@
 var elements = document.getElementsByTagName("*");
-var filteredElements = Array.from(elements).filter(function(element) {
+var filter edElements = Array.from(elements).filter(function(element) {
     // 排除 <a> 标签和带有 href 属性的元素
     return element.tagName !== "A" && !element.hasAttribute("href");
   });
