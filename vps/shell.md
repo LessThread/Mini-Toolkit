@@ -29,3 +29,8 @@ Linux 快速换源
 ```
 bash <(curl -sSL https://linuxmirrors.cn/main.sh)
 ```
+
+1024day 脚本
+```
+https://github.com/yeahwu/v2ray-wss
+```
