@@ -34,3 +34,8 @@ bash <(curl -sSL https://linuxmirrors.cn/main.sh)
 ```
 https://github.com/yeahwu/v2ray-wss
 ```
+
+apt 代理
+```
+proxychains
+```
