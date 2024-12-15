@@ -39,3 +39,13 @@ apt 代理
 ```
 proxychains
 ```
+
+IP质量检测
+```
+bash <(curl -Ls IP.Check.Place)
+```
+
+融合怪测评脚本
+```
+curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
+```
