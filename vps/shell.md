@@ -49,3 +49,8 @@ bash <(curl -Ls IP.Check.Place)
 ```
 curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
 ```
+
+回程测试
+```
+curl https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh -sSf | sh
+```
